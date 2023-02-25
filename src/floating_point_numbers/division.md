@@ -1,10 +1,10 @@
 # Division
 
-You can divide any two `double`s using the `*` operator.
+You can divide any two `double`s using the `/` operator.
 
 ```java
 double x = 8;
-// y will be 4
+// y will be 4.0
 double y = x / 2;
 // z will be 1.3333333333333333
 double z = y / 3;
