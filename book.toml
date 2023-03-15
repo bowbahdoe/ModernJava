@@ -9,3 +9,12 @@ multilingual = false
 git-repository-url = "https://github.com/Together-Java/ModernJava"
 edit-url-template = "https://github.com/Together-Java/ModernJava/edit/develop/{path}"
 mathjax-support = true
+
+[preprocessor.features]
+command = "python3 features.py"
+# Not ready
+toplevel_anonymous_class = true
+# Not ready
+simple_io = true
+# Turn on when Java 21 released
+java_21 = false

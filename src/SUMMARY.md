@@ -20,6 +20,7 @@
 # Modern Java
 
 - [Prelude](./prelude.md)
+    - [Asking for Help](./prelude/asking_for_help.md)
     - [Toy Problems](./prelude/toy_problems.md)
 - [First Steps](./first_steps.md)
     - [Comments](./first_steps/comments.md)

@@ -3,8 +3,13 @@
 The `;` at the end of each of those lines is a "semicolon".
 
 ```java
+~IF simple_io
+print("Hello, "); // <-- this thing
+            //  ^
+~ELSE
 System.out.print("Hello, "); // <-- this thing
                        //  ^
+~ENDIF
 ```  
 
 It indicates that the statement has finished. A "statement" is a line of code that "does something."

@@ -2,6 +2,17 @@
 
 Mechanically, the next thing to cover is "variables".
 
+~IF toplevel_anonymous_class
+
+```java
+void main() {
+    String boss = "Jaqueline";
+    System.out.println(boss);
+}
+```
+
+~ELSE
+
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +21,9 @@ public class Main {
     }
 }
 ```
+
+~ENDIF
+
 
 A variable declaration has three components - the "type", the "name", and the "initial value".
 
