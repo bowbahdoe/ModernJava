@@ -89,6 +89,8 @@
     - [Multiline String Literals](./strings/multiline.md)
     - [Concatenation](./strings/concatenation.md)
     - [Equality](./strings/equality.md)
+    - [Length](./strings/length.md)
+    - [Access Individual Characters](./strings/access_individual_characters.md)
     - [Challenges](./strings/challenges.md)
 
 # Control Flow I
@@ -99,12 +101,14 @@
     - [Else If](./branching_logic/else_if.md)
     - [Relation to Delayed Assignment](./branching_logic/relation_to_delayed_assignment.md)
     - [Ternary Expression](./branching_logic/ternary_expression.md)
+    - [Challenges](./branching_logic/challenges.md)
 - [Loops](./loops.md)
     - [While](./loops/while.md)
     - [Termination Conditions](./loops/termination_conditions.md)
     - [Break](./loops/break.md)
     - [Continue](./loops/continue.md)
     - [Do](./loops/do.md)
+    - [Challenges](./loops/challenges.md)
 
 # User Defined Types
 

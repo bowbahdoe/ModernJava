@@ -42,8 +42,6 @@ if __name__ == '__main__':
             sys.exit(0)
 
     context, book = json.load(sys.stdin)
-    with open("out.json", "w") as f:
-        json.dump(context, f)
 
     for section in book["sections"]:
         preprocess_section(context, section)
