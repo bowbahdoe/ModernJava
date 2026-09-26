@@ -7,7 +7,7 @@ Remember the rules for this are
 
 ## Challenge 1
 
-Write code that will outputs `The number is even` if `x` is an even number.
+Write code that will output `The number is even` if `x` is an even number.
 
 ```java,editable
 void main() {

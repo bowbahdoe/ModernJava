@@ -8,8 +8,8 @@ Prospective customers walk in the store, perhaps acquiring a cart or a basket,
 and gather the items they want to purchase. They then walk to the front of the 
 store, purchase those items using money, and leave.
 
-Some items are priced by quantity. For example, one [avacado](https://en.wikipedia.org/wiki/Avocado) might cost $0.77.
-If they purchased 5 avacados they would have to pay $0.77 five times or $3.85 in total.
+Some items are priced by quantity. For example, one [avocado](https://en.wikipedia.org/wiki/Avocado) might cost $0.77.
+If they purchased 5 avocados they would have to pay $0.77 five times or $3.85 in total.
 
 Other items are priced by weight. Bananas are [really cheap for some reason](https://en.wikipedia.org/wiki/Banana_republic)
 and so 1 pound of bananas costs $0.39. If they purchase 1.5 pounds of bananas they would have to pay 1.5 times $0.39 or $0.585 in total. Currencies like the dollar do not have a "tenth of a penny" so after this math the amount will be rounded
@@ -17,7 +17,7 @@ either to $0.58 or $0.59 depending on the policy of the store in question.
 
 Either way it is uncommon for someone to have exactly $3.85 or $0.59 on their person. So to facilitate purchases
 using physical money they must accept larger bills and offer change for the difference. If someone tries to use a $10 bill
-to buy $3.85 of avacados the store will provide $6.15 back to the customer in change.
+to buy $3.85 of avocados the store will provide $6.15 back to the customer in change.
 
 While a business can operate this way without any sort of computer involved there are several benefits to having one.
 
@@ -41,7 +41,7 @@ The products the produce stand sells are as follows:
 | Item | Cost |
 |------|------ |
 | Banana | $0.39 per pound |
-| Avacado | $0.66 each |
+| Avocado | $0.66 each |
 | Plantains | $0.99 each |
 | Watermelon | $6.99 each |
 | Onion | $0.62 each |

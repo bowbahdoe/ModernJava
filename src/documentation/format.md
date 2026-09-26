@@ -29,7 +29,7 @@ import java.io.IOException;
 ///
 /// 1. One
 /// 2. Two
-/// 3. Thre
+/// 3. Three
 ///
 /// And so on. Definitely peruse up [tutorial on markdown](https://www.markdownguide.org/getting-started/)
 /// when you have the time.

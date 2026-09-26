@@ -9,7 +9,7 @@ int numberOfElements = veggies.length;
 
 // veggies is 3 elements long
 IO.println(
-    "veggies is " + numberOfElements + " characters long"
+    "veggies contains " + numberOfElements + " elements"
 );
 ~}
 ```

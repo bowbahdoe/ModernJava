@@ -47,7 +47,7 @@ class Main {
             );
         };
 
-        woodkid.sing("Pets", 7);
+        twrp.sing("Pets", 7);
     }
 }
 ```
