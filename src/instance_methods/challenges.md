@@ -201,6 +201,6 @@ void main() {
         ***
     */
     char[] c = rectangle.toCharArray();
-    IO.println(c);
+    IO.println(new String(c));
 }
 ```
