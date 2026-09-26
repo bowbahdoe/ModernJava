@@ -111,34 +111,6 @@ void main() {
 
 ## Challenge 4.
 
-Make a `Rectangle` class which has a `width` field and a `height`
-field. Give it an instance method named `toCharArray` which gives
-a `char[]` that can be printed to display a rectangle of the given
-width and height.
-
-```java,editable
-// ------------
-// CODE HERE
-// ------------
-
-void main() {
-    Rectangle rectangle = new Rectangle();
-    rectangle.width = 3;
-    rectangle.height = 4;
-
-    /*
-        ***
-        ***
-        ***
-        ***
-    */
-    char[] c = rectangle.toCharArray();
-    IO.println(c);
-}
-```
-
-## Challenge 5.
-
 Update the definition for the `Taco` class so that it has a method named
 `deluxe`. This should set the taco to have beef, sour cream, cheese,
 and onion. Use the existing instance methods instead of directly accessing
@@ -185,7 +157,7 @@ void main() {
 }
 ```
 
-## Challenge 6.
+## Challenge 5.
 
 Why doesn't this code function as you'd expect? Fix it by changing one line.
 
@@ -202,5 +174,33 @@ void main() {
     var oscar = new Oscar();
     oscar.setGrouchy(true);
     IO.println(oscar.grouchy);
+}
+```
+
+## Challenge 6.
+
+Make a `Rectangle` class which has a `width` field and a `height`
+field. Give it an instance method named `toCharArray` which gives
+a `char[]` that can be printed to display a rectangle of the given
+width and height.
+
+```java,editable
+// ------------
+// CODE HERE
+// ------------
+
+void main() {
+    Rectangle rectangle = new Rectangle();
+    rectangle.width = 3;
+    rectangle.height = 4;
+
+    /*
+        ***
+        ***
+        ***
+        ***
+    */
+    char[] c = rectangle.toCharArray();
+    IO.println(c);
 }
 ```
