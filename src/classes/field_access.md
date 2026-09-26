@@ -1,7 +1,7 @@
 # Field Access
 
 You can access the value of any field in a class by writing the name of a variable holding an instance
-of that class, `.`, then the name of that field.
+of that class, plus a `.`, then the name of that field.
 
 ```java
 class Muppet {
