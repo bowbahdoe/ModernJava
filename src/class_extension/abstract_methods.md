@@ -52,7 +52,7 @@ abstract class Liquid {
     abstract double viscosity();
 }
 
-// Water doesn't need to define volume()
+// Water doesn't need to define viscosity()
 // because Water is abstract
 abstract class Water extends Liquid {
     abstract double purity();
