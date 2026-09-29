@@ -15,7 +15,7 @@ interface Runner {
     }
 }
 
-class RoadRunner {
+class RoadRunner implements Runner {
     @Override
     public void run() {
         IO.println("meep meep");
