@@ -10,15 +10,16 @@ int y = 3;
 while (x != 0) {
     while (y != 0) {
         IO.println(
-            "x is " + x
-        );
-        IO.println(
             "y is " + y
         );
 
-        x--;
         y--;
     }
+
+    IO.println(
+        "x is " + x
+    );
+    x--;
 }
 ~}
 ```
@@ -37,15 +38,15 @@ while (x != 0) {
         }
 
         IO.println(
-            "x is " + x
-        );
-        IO.println(
             "y is " + y
         );
-
-        x--;
         y--;
     }
+
+    IO.println(
+        "x is " + x
+    );
+    x--;
 }
 ~}
 ```
@@ -60,18 +61,16 @@ while (x != 0) {
         break;
     }
     while (y != 0) {
-
-
-        IO.println(
-            "x is " + x
-        );
         IO.println(
             "y is " + y
         );
-
-        x--;
         y--;
     }
+
+    IO.println(
+        "x is " + x
+    );
+    x--;
 }
 ~}
 ```
