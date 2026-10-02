@@ -62,7 +62,7 @@ What will this program output when run? Write down your guess and then try runni
 
 ```java,editable
 void main() {
-    int x = 0;
+    int x = 1;
     while (x < 10) {
         if (x % 3 == 0) {
             break;
