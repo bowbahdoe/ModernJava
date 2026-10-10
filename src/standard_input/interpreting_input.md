@@ -14,7 +14,7 @@ void main() {
         IO.println("Me too!");
     }
     else {
-        IO.println("neat.")
+        IO.println("neat.");
     }
 }
 ```
