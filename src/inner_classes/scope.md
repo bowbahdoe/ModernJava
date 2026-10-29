@@ -35,7 +35,7 @@ class Car {
 class Main {
     void main() {
         Car car = new Car();
-        Car.Speedometer = car.getSpeedometer();
+        Car.Speedometer speedometer = car.getSpeedometer();
     }
 }
 ```
