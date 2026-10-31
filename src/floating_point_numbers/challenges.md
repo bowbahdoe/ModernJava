@@ -86,8 +86,8 @@ void main() {
     double resultOne = ???;
     double resultTwo = ???;
 
-    IO.println(resultOne); // -0,418861
-    IO.println(resultTwo); // -3,581139
+    IO.println(resultOne); // -0.41886116991581
+    IO.println(resultTwo); // -3.5811388300842
 }
 ```
 
