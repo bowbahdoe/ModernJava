@@ -76,7 +76,7 @@ Write some code that finds both solutions to any quadratic equation defined by s
 ```java,editable
 void main() {
     // For this one in particular, you should output
-    // -3.5811388300842 and -0.41886116991581
+    // -0.41886116991581 and -3.5811388300842
     // but your code should work with these three numbers changed to
     // represent any given quadratic equation.
     double a = 2;
@@ -86,8 +86,8 @@ void main() {
     double resultOne = ???;
     double resultTwo = ???;
 
-    IO.println(resultOne);
-    IO.println(resultTwo);
+    IO.println(resultOne); // -0.41886116991581
+    IO.println(resultTwo); // -3.5811388300842
 }
 ```
 
