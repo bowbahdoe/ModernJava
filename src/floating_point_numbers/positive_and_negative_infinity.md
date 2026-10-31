@@ -1,6 +1,6 @@
 # Positive and Negative Infinity
 
-In addition to the wackyness of `NaN`, floating point numbers can also represent both positive
+In addition to the wackiness of `NaN`, floating point numbers can also represent both positive
 and negative infinity.
 
 You can get positive infinity by dividing any positive number by zero.
