@@ -21,7 +21,7 @@ IO.println(valueOfA);
 char gee = 'g';
 
 // all the letters from a to z have consecutive numeric values.
-boolean isLetter = gee >= 'a' && gee <= 'z';
+boolean isLetter = 'a' <= gee && gee <= 'z';
 
 IO.println(isLetter);
 ~}
