@@ -34,4 +34,4 @@ IO.println(areNotSame);
 
 Note that you should **not** use `==`. Java will let you do it but you won't get what you expect.[^inaway]
 
-[^inaway]: It is confusing in a way that we aren't ready to explain yet. Just remember for `int`, `double`, `char`, etc. you can use `==`. For `String` use `.equals`.
+[^inaway]: It is confusing in a way that we aren't ready to explain yet. Just remember for `int`, `double`, `char`, etc. you can use `==`. For `String` use `.equals`. Though, `==` should also not be used to compare `double` as discussed earlier.
